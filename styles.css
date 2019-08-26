@@ -1,0 +1,30 @@
+body {
+   background: url('../image/mmm.jpg');
+   color: red;
+
+}
+
+.h {
+  align-content: center;
+  font-size: bold;
+}
+
+div.food {
+  color: white;
+}
+
+
+div.blue {
+  color: yellow;
+  font-size: bold;
+}
+
+div.ull {
+  color: yellow;
+  font-size: bold;
+}
+
+div.food {
+  color: yellow;
+  font-size: bold;
+}
